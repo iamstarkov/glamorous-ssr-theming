@@ -2,6 +2,8 @@
 
 # Example app with [glamorous](https://github.com/kentcdodds/glamorous)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/glamorous-ssr-theming.svg)](https://greenkeeper.io/)
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/zeit/next.js):
